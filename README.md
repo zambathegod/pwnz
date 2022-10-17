@@ -1,2 +1,1 @@
-# pwnz
-pwnz
+pwnz by @zambathegod
